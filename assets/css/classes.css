@@ -20,13 +20,24 @@
 .main-content {
     max-width: 120rem;
     margin: 0 auto;
-    padding: 10rem var(--gap);
+    padding: 6.6rem var(--gap);
+}
+
+.text-spacing {
+    max-width: 120rem;
+    margin: 0 auto;
+    padding-right: 4rem;
+    padding-left: 4rem;
 }
 
 .section {
     min-height: 100vh;
 }
 
-.menu-spacing {
+.spacing {
     height: 6.5rem;
+}
+
+.less-spacing {
+    height: 3rem;
 }

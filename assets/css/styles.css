@@ -16,3 +16,14 @@
     margin-top: 1rem;
     transform: rotate(-92deg);
 }
+
+.puppies {
+    border: 1px solid white;
+    border-radius: 3rem;
+}
+
+.puppies-content {
+    display: flex;
+    align-self: center;
+    margin: 0 auto;
+}
