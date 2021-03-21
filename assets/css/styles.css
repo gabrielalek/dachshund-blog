@@ -1,0 +1,18 @@
+.balao {
+    position: absolute;
+    margin-left: 11rem;
+    border: 0.1rem solid var(--white-color);
+    border-radius: 6rem;
+    padding: 1.1rem;
+}
+
+.triangulo {
+    position: relative;
+    background-image: url('../img/main-bg.svg');
+    border-right: 0.35rem solid transparent;
+    border-bottom: 1rem solid var(--white-color);
+    border-left: 0.9rem solid transparent;
+    margin-right: 80rem;
+    margin-top: 1rem;
+    transform: rotate(-92deg);
+}
