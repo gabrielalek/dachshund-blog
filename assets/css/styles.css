@@ -20,6 +20,8 @@
 .puppies {
     border: 1px solid white;
     border-radius: 3rem;
+    width: 50%;
+    height: 50%;
 }
 
 .puppies-content {

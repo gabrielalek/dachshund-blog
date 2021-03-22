@@ -32,12 +32,9 @@
 
 .section {
     min-height: 100vh;
+    margin-bottom: 4rem;
 }
 
-.spacing {
+.menu-spacing {
     height: 6.5rem;
-}
-
-.less-spacing {
-    height: 3rem;
 }
