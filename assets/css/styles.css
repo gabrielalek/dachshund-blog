@@ -1,4 +1,4 @@
-.balao {
+.baloon {
     position: absolute;
     margin-left: 11rem;
     border: 0.1rem solid var(--white-color);
@@ -6,7 +6,7 @@
     padding: 1.1rem;
 }
 
-.triangulo {
+.triangle {
     position: relative;
     background-image: url('../img/main-bg.svg');
     border-right: 0.35rem solid transparent;
@@ -18,10 +18,10 @@
 }
 
 .puppies {
-    border: 1px solid white;
+    border: 1px solid var(--white-color);
     border-radius: 3rem;
-    width: 50%;
-    height: 50%;
+    width: 50rem;
+    height: 35rem;
 }
 
 .puppies-content {
@@ -29,3 +29,29 @@
     align-self: center;
     margin: 0 auto;
 }
+
+.imagem-salsicha {
+    border: 1px solid var(--white-color);
+    width: 40rem;
+    height: 30rem;
+    border-radius: 3rem;
+    margin-top: 2rem;
+}
+
+.tipo-pelagem-longo {
+    border: 1px solid var(--white-color);
+    width: 183rem;
+    height: 30rem;
+    border-radius: 3rem;
+    margin-top: 2rem;
+}
+
+.tipo-pelagem-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.tipo-pelagem-content img {
+    margin-right: 5rem;
+}
+
