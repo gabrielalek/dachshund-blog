@@ -30,22 +30,6 @@
     margin: 0 auto;
 }
 
-.imagem-salsicha {
-    border: 1px solid var(--white-color);
-    width: 40rem;
-    height: 30rem;
-    border-radius: 3rem;
-    margin-top: 2rem;
-}
-
-.tipo-pelagem-longo {
-    border: 1px solid var(--white-color);
-    width: 183rem;
-    height: 30rem;
-    border-radius: 3rem;
-    margin-top: 2rem;
-}
-
 .tipo-pelagem-content {
     display: flex;
     flex-direction: row;
