@@ -31,14 +31,6 @@
     margin-top: 2rem;
 }
 
-.imagem-galeria-salsicha {
-    border: 1px solid var(--white-color);
-    width: 40rem;
-    height: 30rem;
-    border-radius: 3rem;
-    margin-top: 2rem;
-}
-
 .text-spacing {
     max-width: 120rem;
     margin: 0 auto;
